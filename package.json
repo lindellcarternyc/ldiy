@@ -1,0 +1,20 @@
+{
+  "name": "ldiy",
+  "version": "1.0.0",
+  "description": "A Dependency Injection Library ... written in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindellcarternyc/ldiy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lindellcarternyc/ldiy/issues"
+  },
+  "homepage": "https://github.com/lindellcarternyc/ldiy#readme"
+}
