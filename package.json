@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lindellcarternyc/ldiy/issues"
   },
-  "homepage": "https://github.com/lindellcarternyc/ldiy#readme"
+  "homepage": "https://github.com/lindellcarternyc/ldiy#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
 }
